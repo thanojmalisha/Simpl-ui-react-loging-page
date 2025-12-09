@@ -1,2 +1,1 @@
-# Simpl-ui-react-loging-page
-tring to learn react + java spring boot 
+Simple login styled UI project
